@@ -3,7 +3,27 @@
 	"ignore": "test",
 	"package": [
 		{
+			"path": "bytes",
+			"revision": ""
+		},
+		{
+			"path": "encoding/base32",
+			"revision": ""
+		},
+		{
+			"path": "encoding/gob",
+			"revision": ""
+		},
+		{
+			"path": "encoding/json",
+			"revision": ""
+		},
+		{
 			"path": "errors",
+			"revision": ""
+		},
+		{
+			"path": "fmt",
 			"revision": ""
 		},
 		{
@@ -25,76 +45,82 @@
 			"revisionTime": "2018-06-21T17:27:31Z"
 		},
 		{
+			"checksumSHA1": "Df0Tq+a4XgACp3eJu1a8qqpwCgM=",
+			"path": "github.com/daisuke310vvv/redistore",
+			"revision": "ef6c28da7ab2321a6504356ef4dba39fc20546ce",
+			"revisionTime": "2018-09-17T09:59:31Z"
+		},
+		{
 			"checksumSHA1": "V2HP0TL0fcQwhxL2kKQvyeHQMo0=",
 			"path": "github.com/daisuke310vvv/sessions",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "hGC+/KQX++/9rUBP4KPGfgpLniM=",
 			"path": "github.com/daisuke310vvv/sessions/cookie",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "cE6u24KaCQY+K+jVsFSwWpht+WU=",
 			"path": "github.com/daisuke310vvv/sessions/example/cookie",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "KSRYBv7oyCY4VN5tdfs5p2avAck=",
 			"path": "github.com/daisuke310vvv/sessions/example/memcached",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "6et63upguQpQfdLZZqUVifYdhTs=",
 			"path": "github.com/daisuke310vvv/sessions/example/memstore",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "NoNREP1xvsPBaQ1+y2hPX5stnc8=",
 			"path": "github.com/daisuke310vvv/sessions/example/mongo",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "/tP7/EgAMlFHfCpjVJAOvVD9xBw=",
 			"path": "github.com/daisuke310vvv/sessions/example/redis",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "Re0+97amhxiHfP6rLehfS17gkVI=",
 			"path": "github.com/daisuke310vvv/sessions/memcached",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "ZGWRn9ZSSPZ8I5tZ47zCn+2oaQc=",
 			"path": "github.com/daisuke310vvv/sessions/memstore",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "Reo8fSqLd0oGntbVRQeUGYieXaA=",
 			"path": "github.com/daisuke310vvv/sessions/mongo",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "HuJnjq7DHy8zvpeTx4AVHDcKqBA=",
 			"path": "github.com/daisuke310vvv/sessions/redis",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "NuJOwAsYi5FxTGdOU26Zl45vN9I=",
 			"path": "github.com/daisuke310vvv/sessions/tester",
-			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
-			"revisionTime": "2018-08-27T02:54:25Z"
+			"revision": "205cb093fe42d194c8bc64f57d52da16648e5906",
+			"revisionTime": "2018-09-17T09:29:00Z"
 		},
 		{
 			"checksumSHA1": "H5YFYmUpnlLVKNBk+HXH/wYJLw4=",
@@ -318,6 +344,10 @@
 		},
 		{
 			"path": "testing",
+			"revision": ""
+		},
+		{
+			"path": "time",
 			"revision": ""
 		}
 	],
