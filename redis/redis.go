@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/daisuke310vvv/redistore"
-	"github.com/gin-contrib/sessions"
+	"github.com/daisuke310vvv/sessions"
 	"github.com/gomodule/redigo/redis"
 	gsessions "github.com/gorilla/sessions"
 )

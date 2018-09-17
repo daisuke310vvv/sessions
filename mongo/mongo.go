@@ -1,7 +1,7 @@
 package mongo
 
 import (
-	"github.com/gin-contrib/sessions"
+	"github.com/daisuke310vvv/sessions"
 	gsessions "github.com/gorilla/sessions"
 	"github.com/kidstuff/mongostore"
 	mgo "gopkg.in/mgo.v2"
